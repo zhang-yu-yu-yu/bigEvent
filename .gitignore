@@ -1,0 +1,12 @@
+# # 表示注释
+# 下面设置项目忽略的文件
+
+# 忽略abc.js文件
+abc.js
+
+# 忽略xyz文件夹里面所有的文件
+xyz
+
+# 忽略 node 第三方模块
+package-lock.json
+node_modules
